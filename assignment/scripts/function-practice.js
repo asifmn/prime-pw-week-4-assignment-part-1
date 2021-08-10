@@ -114,3 +114,10 @@ console.log(positiveArray([-1,-5,-7,-9,-12,-13]));
 // 11. Pick a problem from Edabit(https://edabit.com/) or 
 //     CodeWars(https://www.codewars.com/). Then describe it 
 //     here in a comment, write the function, and test it!
+
+
+// edabit.com - return the sum of two numbers
+function addition(a, b) {
+	return (a + b);
+}
+console.log('Test - "1 + 2 = 3"', addition(1, 2));
